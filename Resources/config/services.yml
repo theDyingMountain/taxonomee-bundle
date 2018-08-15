@@ -1,0 +1,4 @@
+services:
+#    home_taxonomie.example:
+#        class: Home\TaxonomieBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
