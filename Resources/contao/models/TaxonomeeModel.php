@@ -8,7 +8,7 @@
 
 namespace Home\TaxonomeeBundle\Resources\contao\models;
 
-class TaxonomeeModel extends \Model
+class TaxonomeeModel extends \Contao\Model
 {
     /**
      * Table name

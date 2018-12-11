@@ -20,9 +20,8 @@ $GLOBALS['TL_DCA'][$moduleName] = [
     ],
 ];
 
-$tl_taxonomee = new Helper\DcaHelper($moduleName);
-
 try{
+    $tl_taxonomee = new Helper\DcaHelper($moduleName);
     $tl_taxonomee
         #-- Config
         ->addConfig('taxonomie',array(
