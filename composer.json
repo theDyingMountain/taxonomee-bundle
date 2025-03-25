@@ -1,5 +1,5 @@
 {
-    "name": "home/taxonomee-bundle",
+    "name": "thedyingmountain/taxonomee-bundle",
     "type": "contao-bundle",
     "description": "Adds Taxonomee to Contao 4",
     "keywords":["contao","taxonomee"],
